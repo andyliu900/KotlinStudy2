@@ -3,7 +3,7 @@ package org.example.file_io
 import java.io.File
 
 /**
- * Copyright (C), 2014-2025, 北京百度网讯股份有限公司
+ * Copyright (C), 2014-2025, 无业游民
  * @ProjectName:    KotlinStudy2
  * @Package:        org.example.file_io
  * @ClassName:      Main

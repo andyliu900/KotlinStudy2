@@ -4,7 +4,7 @@ import java.beans.Introspector;
 import java.beans.PropertyDescriptor;
 
 /**
- * Copyright (C), 2014-2025, 北京百度网讯股份有限公司
+ * Copyright (C), 2014-2025, 无业游民
  *
  * @ProjectName: KotlinStudy2
  * @Package: PACKAGE_NAME
